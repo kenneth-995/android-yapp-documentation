@@ -1,0 +1,16 @@
+cat.itb.yapp
+cat.itb.yapp.activities
+cat.itb.yapp.adapters
+cat.itb.yapp.fragments
+cat.itb.yapp.fragments.forms
+cat.itb.yapp.fragments.list
+cat.itb.yapp.models.auth
+cat.itb.yapp.models.clinic
+cat.itb.yapp.models.mts
+cat.itb.yapp.models.patient
+cat.itb.yapp.models.report
+cat.itb.yapp.models.treatment
+cat.itb.yapp.models.user
+cat.itb.yapp.retrofit
+cat.itb.yapp.utils
+cat.itb.yapp.webservices
